@@ -14,3 +14,13 @@
 *Objetivos:*
 
 Criar um 1º repositório que sirva como um guia para os estudos e , também, como uma atividade prática dos conhecimentos sobre Git e Github.
+
+*Sumário:* 
+
+* **Estudos** 
+* **Git e Github** 
+* **HTML e CSS3** 
+* **JAVA** 
+* **JavaScript** 
+* **ReactJS** 
+* **SQL** 
