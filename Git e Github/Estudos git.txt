@@ -1,0 +1,24 @@
+# Comandos Uteis # 
+
+* **git add * :**  Envia para o status staged
+
+* **git commit -m:** Commita o arquivo no Git
+
+* **git push origin master:** Empurra o código da sua maquina para o Github
+
+* **git pull origin master:** Puxa alterações do Github para a máquina local
+
+* **git clone:** Clona repositório do Github para a máquina
+
+   
+
+
+
+*Git:*  
+
+Software de versionamento de códigos que possibilita que várias pessoas façam alterações em um mesmo código de forma segura e distribuída.
+
+*Github:* 
+
+Repositório online que guarda as versões dos códigos versionadas pelo Git.
+
