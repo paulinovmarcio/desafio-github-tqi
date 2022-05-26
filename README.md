@@ -4,7 +4,7 @@
 **Ferramentas utilizadas:**
 
 - **[Git]([https://git-scm.com](https://git-scm.com/))** 
-- **[Github](https://github.com/) ** 
+- **[Github](https://github.com/)** 
 - **[Typora](https://typora.io/)** 
 
 *Objetivos:* 
